@@ -158,7 +158,7 @@ input[type='text'], input[type='email'], textarea, input[type='password']{
     /* border-right: 4px solid black; */
     border-radius: 8px; 
 
-    background: url('../assets/login-bg-copy.jpeg');
+    background: url('../assets/login_child_vr.png');
     /* background: url('../assets/bg_login_black.jpg'); */
     background-position: center;
     background-repeat: no-repeat;

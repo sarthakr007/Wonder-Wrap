@@ -3,14 +3,13 @@ import { getDatabase, set, ref } from "https://www.gstatic.com/firebasejs/10.7.2
 import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/10.7.2/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBruz7vqar_eojDg-OK4XoPSCkTQ5qQlb0",
-  authDomain: "crophawk-f0913.firebaseapp.com",
-  databaseURL: "https://crophawk-f0913-default-rtdb.firebaseio.com",
-  projectId: "crophawk-f0913",
-  storageBucket: "crophawk-f0913.appspot.com",
-  messagingSenderId: "525825726834",
-  appId: "1:525825726834:web:c477a0aa352061eea8a5eb"
-};
+    apiKey: "AIzaSyAcc5qXhKyVdmP4FmCh3kloICaFIta7tsY",
+    authDomain: "test-939cb.firebaseapp.com",
+    projectId: "test-939cb",
+    storageBucket: "test-939cb.appspot.com",
+    messagingSenderId: "71727616978",
+    appId: "1:71727616978:web:3cefb90e47103cca9cee0b"
+  };
         
 const app = initializeApp(firebaseConfig);
 const db = getDatabase();
