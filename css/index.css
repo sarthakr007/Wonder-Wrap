@@ -66,6 +66,11 @@ p,a,li {
     /* background-color: var(--primary); */
 }
 
+.center_div{
+    display: flex;
+    justify-content: center;
+}
+
 .headder_bottom{
     height: min(80px, 20vw);
 }
